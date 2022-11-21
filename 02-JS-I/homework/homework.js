@@ -42,9 +42,6 @@ function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
   return x - y;
-
-  //Tarde un dia y no sabia que el interrogante está
-  //mal planteado, no es y - x, es x - y.
 }
 
 function multiplica(x, y) {
